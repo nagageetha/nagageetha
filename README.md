@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nagageetha 
-- 👀 I’m interested in tech,coding & testing
+- 👀 I’m interested in tech/coding & testing
 - 🌱 I’m currently learning python selenium.
 - 💞️ I’m looking for help with placement in a remote-based startup & to collaborate on interesting projects.
 - 📫 How to reach me 
